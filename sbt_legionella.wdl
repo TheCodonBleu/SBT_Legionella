@@ -3,8 +3,7 @@ version 1.0
 workflow sbt_analysis {
   meta {
       description: "SBT Legionella pneumophila isolates using the el_gato tool."
-      author: "David Maimoun"
-      organization: "MOH Jerusalem"
+      author: "David Maimoun (The Codon Bleu)"
   }
 
   input {
